@@ -1,6 +1,6 @@
 
 # Hostel_mgmt
-Repository for Hostel Management Project
+Package for Hostel Management Project
 
 __Package name__: `hostel_mgmt`<br>
 __Package description__: *Python Package for managing records and databases that are required in managing the resources and data of a hostel viz. Student Details, Block details, Mess details etc.*
